@@ -19,7 +19,7 @@ const User = () => {
       setPosts(response.data)
     })
     .catch(error => console.log(error))
-  }, [])
+  }, [user])
 
 
 
