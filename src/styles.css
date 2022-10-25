@@ -1,0 +1,16 @@
+* {
+  font-family: 'sans-serif';
+  color: white;
+}
+
+::-webkit-scrollbar {
+  display: none; 
+}
+
+body {
+  margin: 0 auto;
+}
+
+main {
+  overflow: scroll;
+}
